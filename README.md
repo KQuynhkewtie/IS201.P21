@@ -1,6 +1,6 @@
 ## Hướng dẫn cài đặt chương trình
 #### Bước 1: Tải File .rar về máy sau đó giải nén thư mục.
-#### Bước 2: Tải file QLNT_con.sql. Vào CMD hoặc SQL*Plus tạo user “TSISPharmacy” mật khẩu “tsispharmacy” và cấp quyền cho user.
+#### Bước 2: Vào CMD hoặc SQL*Plus tạo user “TSISPharmacy” mật khẩu “tsispharmacy” và cấp quyền cho user.
 CREATE USER c##TSISPharmacy IDENTIFIED BY qlnt;
 GRANT DBA to c##TSISPharmacy;
 #### Bước 3:  Vào oracle tạo Connect với user vừa tạo. Sau đó tiến hành execute file sql trên user vừa tạo.
@@ -12,3 +12,6 @@ Lưu ý: Có tất cả 14 bảng dữ liệu, phải import theo thứ tự: VA
 Tài khoản admin
 Username: admin@gmail.com
 Password: 123456789
+
+## Video demo các chức năng
+[Video Demo chức năng Phần mềm Quản lý nhà thuốc](https://drive.google.com/drive/folders/1JIbJfezcRAFFBIDilY8J8h-1tZYjez3N?usp=sharing)
