@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class DatabaseHelper {
 	private static final String URL = "jdbc:oracle:thin:@localhost:1521:orcl";
-	private static final String USER = "c##DoAn_No3";
-	private static final String PASSWORD = "quynh123123";
+	private static final String USER = "c##TSISPharmacy";
+	private static final String PASSWORD = "tsispharmacy";
 
 	// Khởi tạo driver
 	static {
