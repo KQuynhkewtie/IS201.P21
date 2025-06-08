@@ -1,5 +1,5 @@
 ## Hướng dẫn cài đặt chương trình
-#### Bước 1: Tải File QuanLyNhaThuoc.rar về máy sau đó giải nén thư mục.
+#### Bước 1: Tải File .rar về máy sau đó giải nén thư mục.
 #### Bước 2: Tải file QLNT_con.sql. Vào CMD hoặc SQL*Plus tạo user “TSISPharmacy” mật khẩu “tsispharmacy” và cấp quyền cho user.
 CREATE USER c##TSISPharmacy IDENTIFIED BY qlnt;
 GRANT DBA to c##TSISPharmacy;
