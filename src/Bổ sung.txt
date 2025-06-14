@@ -1,0 +1,5 @@
+Các mục bổ sung:
+1. Thêm trigger để hỗ trợ việc tính lại số lượng sản phẩm khi cập nhật hóa đơn.
+2. Thêm thuộc tính CCCD vào khách hàng.
+3. Cải thiện format PDF của hóa đơn và phiếu nhập hàng khi xuất ra. Bổ sung vào các thông tin như: Thông tin của nhà thuốc (SĐT, địa chỉ, mã số thuế,...); thông tin của khách hàng (tên, CCCD, SĐT,...); Ký hiệu hóa đơn điện tử chuẩn theo thông tư 32/2025/TT-BTC; Thông tin nhà cung ứng ở phiếu nhập hàng (tên, mã số thuế, địa chỉ, SĐT,...).
+4. Cải thiện bộ lọc nâng cao: khi nhập giá trị 'từ' lớn hơn giá trị 'đến' thì sẽ báo lỗi và yêu cầu nhập lại.
